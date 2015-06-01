@@ -1,2 +1,5 @@
 # Emacs backup files
 *~
+
+# IPython checkpoint files
+*.ipynb_checkpoints/*
