@@ -8,8 +8,7 @@
     b. Click the "Download Spark" link and download from a mirror.
     c. Untar the file and rename the folder `spark`. The full path to this folder will be referred to as `$SPARK_HOME`
 
-3. Install Python2.7 and IPython.
-    a. The easiest way: [Install Anaconda Python.](http://continuum.io/downloads)
+3. Install Python2.7 and IPython. The easiest way is to install [Anaconda Python](http://continuum.io/downloads).
 
 4. Open a shell in `pyspark-for-data-science/setup` and launch an IPython notebook with Pyspark: `bash run-pyspark.sh` (`run-pyspark.cmd` for Windows).
 5. Execute cells in the notebook by hitting `Shift + Enter`.
